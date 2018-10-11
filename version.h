@@ -1,0 +1,6 @@
+
+
+
+
+
+extern const char* checkcsgotype();
